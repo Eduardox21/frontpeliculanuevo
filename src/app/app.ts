@@ -14,8 +14,7 @@ import { NgIf } from '@angular/common';
     MatIconModule,
     MatMenuModule,
     MatButtonModule,
-    RouterLink,
-    NgIf],
+    ],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
